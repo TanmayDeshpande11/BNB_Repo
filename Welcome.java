@@ -1,1 +1,4 @@
-class Welcome
+class Welcome{
+  a=10;
+  
+}
